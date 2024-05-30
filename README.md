@@ -6,4 +6,5 @@ This repository houses the code for implementing fundamental mathematical operat
 2. /sparstrix/SparseMatrix.py  Contain the python codes.
 
 Use the following command to run the codes and see the output.
+
 python3 /DSA_HW02-Sparse-Matrix/sparse_matrix/SparseMatrix.py
